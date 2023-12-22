@@ -14,41 +14,7 @@ AOS.init();
     cardImage: "assets/images/education-page/SGDAcademy.jpeg",
     moocLink: "https://www.edx.org/course/us-public-policy-social-economic-and-foreign-policies-course-v1harvardxhks101a_42t2022?utm_medium=social&utm_campaign=social-sharing-db&utm_source=twitter ",
   },
-  {
-    title: "Intro to Aerospace Engineering: Astronautics and Human Spaceflight",
-    cardImage: "assets/images/education-page/SGDAcademy.jpeg",
-    moocLink: "https://www.edx.org/course/introduction-to-aerospace-engineering-astronautics-and-human-spaceflight-course-v1mitx1600x2t2020?utm_medium=social&utm_campaign=social-sharing-db&utm_source=twitter ",
-  },
-  {
-    title: "Algorithms: Design and Analysis, pt1",
-    cardImage: "assets/images/education-page/SGDAcademy.jpeg",
-    moocLink: "https://www.edx.org/course/algorithms-design-and-analysis?utm_medium=social&utm_campaign=social-sharing-db&utm_source=twitter ",
-  },
-  {
-    title: "Environmental Security and Sustaining Peace",
-    cardImage: "assets/images/education-page/SGDAcademy.jpeg",
-    moocLink: "https://learning.edx.org/course/course-v1:SDGAcademyX+ESSP001+3T2019/home",
-  },
-  {
-    title: "Incorporating Renewable Energy in Electricity Grids",
-    cardImage: "assets/images/education-page/SGDAcademy.jpeg",
-    moocLink: "https://learning.edx.org/course/course-v1:ImperialX+dacc003+3T2018/home",
-  },
-  {
-    title: "How to Achieve the Sustainable Development Goals",
-    cardImage: "assets/images/education-page/SGDAcademy.jpeg",
-    moocLink: "https://learning.edx.org/course/course-v1:SDGAcademyX+SDG001+3T2018/home",
-  },
-  {
-    title: "Agile Project Leadership"
-    cardImage: "assets/images/education-page/SGDAcademy.jpeg",
-    moocLink: "https://www.linkedin.com/learning/agile-project-leadership/necessity-of-leadership-in-agile-environments",
-  },
-  {
-    title: "Leading and Motivating People with Different Personalities",
-    cardImage: "assets/images/education-page/SGDAcademy.jpeg",
-    moocLink: "https://https://www.linkedin.com/learning/certificates/20e048c8f56de4df33cd0ff8c88e00166de984ea955df1db3eb4d81764433d56",
-  },
+  
  ];
 
  const experience = [
