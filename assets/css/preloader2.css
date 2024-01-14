@@ -1,29 +1,32 @@
-.static-icon-container {
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.preloader-container {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #202124;
-    height: 100%;
     width: 100%;
+    height: 100%;
+    background-color: #fff; /* Set your desired opaque background color */
     display: flex;
-    justify-content: center;
     align-items: center;
-    z-index: 999999;
+    justify-content: center;
+    z-index: 9999;
 }
 
-.static-icon-container img {
-    max-width: 100%;
-    max-height: 100%;
-}
-.static-icon-container {
-    animation: fadeInAnimation 1s forwards;
+.preloader img {
+    width: 100%; /* Adjust as needed */
+    height: auto;
+    animation: shrink 2s ease-out forwards;
 }
 
-@keyframes fadeInAnimation {
+@keyframes shrink {
     0% {
-        opacity: 0;
+        transform: scale(1);
     }
     100% {
-        opacity: 1;
+        transform: scale(0);
     }
 }
