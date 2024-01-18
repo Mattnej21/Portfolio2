@@ -4,6 +4,13 @@ AOS.init();
 
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
+   {
+    title: "Electric/Hybrid-Electric Product Development Engineering ",
+    cardImage: "assets/images/experience-page/22_FRD_MCH_48344.tif.jpeg",
+    place: "Ford Motors Co.",
+    time: "(May - Aug, 2024)",
+     desp: "<li>Upcoming</li><li>Experience</li>",
+  },
   {
     title: "Manufacturing Engineering Co-Op",
     cardImage: "assets/images/experience-page/RAT.jpeg",
