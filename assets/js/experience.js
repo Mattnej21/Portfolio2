@@ -7,9 +7,9 @@ const exp = [
    {
     title: "Electric/Hybrid-Electric Product Development Engineering ",
     cardImage: "assets/images/experience-page/22_FRD_MCH_48344.tif.jpeg",
-    place: "Ford Motors Co.",
+    place: "Ford Motor Co.",
     time: "(May - Aug, 2024)",
-     desp: "<li>Upcoming</li><li>Experience</li>",
+     desp: "",
   },
   {
     title: "Manufacturing Engineering Co-Op",
