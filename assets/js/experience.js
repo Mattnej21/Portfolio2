@@ -6,14 +6,14 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
    {
     title: "Electric/Hybrid-Electric Product Development Engineering ",
-    cardImage: "assets/images/experience-page/22_FRD_MCH_48344.tif.jpeg",
+    cardImage: "assets/images/experience-page/Ford-Motor-Company-Logo.png",
     place: "Ford Motor Co.",
     time: "(May - Aug, 2024)",
      desp: "",
   },
   {
     title: "Manufacturing Engineering Co-Op",
-    cardImage: "assets/images/experience-page/RAT.jpeg",
+    cardImage: "assets/images/experience-page/Raytheon-Symbol.png",
     place: "Collins Aero.(Raytheon)",
     time: "(Jan - Aug, 2023)",
      desp: "<li>Improved Ram Air Turbine Mfg processes.</li><li>Implemented shadowboards in nearly 15% of plant assembly areas/75% of test areas.</li><li>Overhauled wind tunnel gantry mounting processes to protect Airbus A320 ram air turbines from damage due to FOD and impact</li>",
