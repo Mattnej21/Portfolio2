@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
    {
     title: "Electric/Hybrid-Electric Product Development Engineering ",
-    cardImage: "assets/images/experience-page/22_FRD_MCH_48344.tif.jpeg",
+    cardImage: "assets/images/experience-page/22_FRD_F15_LIGHTNING_56319.tif.jpeg",
     place: "Ford Motor Co.",
     time: "(May - Aug, 2024)",
      desp: "",
