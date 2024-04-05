@@ -9,7 +9,17 @@ const exp = [
     cardImage: "assets/images/experience-page/22_FRD_F15_LIGHTNING_56319.tif.jpeg",
     place: "Ford Motor Co.",
     time: "(May - Aug, 2024)",
-     desp: "",
+     desp: "Mechanical Systems Production:
+Assist P736 VHE team in producing mechanical systems.
+Connect physical and logical architecture using SysML (Magic Draw).
+Cross-Disciplinary Collaboration:
+Work with a cross-disciplinary team to handle challenges in problem definition and communication effectively.
+Process Improvement:
+Identify opportunities for improvement in MBFMA tools and processes.
+Make suggestions to the team and management for enhancements.
+Adaptation to New Environments:
+Adapt to the new 3DX environment.
+Utilize or test new FMA AI software as needed.",
   },
   {
     title: "Manufacturing Engineering Co-Op",
