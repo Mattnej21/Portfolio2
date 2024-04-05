@@ -311,7 +311,7 @@ input[type="text"] {
 }
 
 .skill-card .wrapper:hover .menu-content span {
-  transform: translate(-50%, -10px);
+  transform: translate(-75%, -15px);
   opacity: 1;
 }
 
