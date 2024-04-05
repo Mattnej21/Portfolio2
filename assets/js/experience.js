@@ -10,16 +10,13 @@ const exp = [
     place: "Ford Motor Co.",
     time: "(May - Aug, 2024)",
      desp: "Mechanical Systems Production:
-Assist P736 VHE team in producing mechanical systems.
-Connect physical and logical architecture using SysML (Magic Draw).
-Cross-Disciplinary Collaboration:
-Work with a cross-disciplinary team to handle challenges in problem definition and communication effectively.
-Process Improvement:
-Identify opportunities for improvement in MBFMA tools and processes.
-Make suggestions to the team and management for enhancements.
-Adaptation to New Environments:
-Adapt to the new 3DX environment.
-Utilize or test new FMA AI software as needed.",
+<li>Assist P736 VHE team in producing mechanical systems.</li>
+<li>Connect physical and logical architecture using SysML (Magic Draw).</li>
+<li>Work with a cross-disciplinary team to handle challenges in problem definition and communication effectively.</li>
+<li>Identify opportunities for improvement in MBFMA tools and processes.</li>
+<li>Make suggestions to the team and management for enhancements.</li>
+<li>Adapt to the new 3DX environment.</li>
+<li>Utilize or test new FMA AI software as needed."</li>
   },
   {
     title: "Manufacturing Engineering Co-Op",
