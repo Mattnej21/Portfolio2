@@ -30,7 +30,7 @@ const projects = [
     Githublink: "",
   },
    {
-    title: "Mechatron(Complete)",
+    title: "Wind Tunnel RAT Gantry(Complete)",
     cardImage: "assets/images/project-page/dd9b3eb2-e1c0-466c-8ef6-b42c643296e5-RFD0909_Collins_Aerospace004.JPG.webp",
     description: "Performed on a team to process plan for loading/testing/unloading RAT from windtunnel gantry.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
