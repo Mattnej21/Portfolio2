@@ -108,7 +108,7 @@ body[light-mode="dark"] .light-mode-button span:nth-child(2) {
   }
   .godown {
     z-index: 1;
-    padding-top: 15rem;
+    padding-top: 5rem;
     padding-left: 3.3rem;
   }
 }
