@@ -43,7 +43,7 @@ const exp = [
     title: "Airport Ground Crew",
     cardImage: "assets/images/experience-page/IMG_1774.jpeg",
     place: "West Bend Municipal Airport",
-    time: "(Aug, 19 - Sep, 21)",
+    time: "(Aug, 19 - Jun, 21)",
     desp: "<li>Marshalled and fueled transient aircraft while ensuring high attention to detail and precision.</li><li>Conducted superficial maintenance on a fleet of 5 training aircraft.</li>",
   },
    
