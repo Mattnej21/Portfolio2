@@ -16,7 +16,7 @@ const exp = [
     cardImage: "assets/images/experience-page/RAT.jpeg",
     place: "Collins Aero.(Raytheon)",
     time: "(Jan - Aug, 2023)",
-     desp: "<li>Improved Ram Air Turbine Mfg processes.</li><li>Implemented shadowboards in nearly 15% of plant assembly areas/75% of test areas.</li><li>Overhauled wind tunnel gantry mounting processes to protect Airbus A320 ram air turbines from damage due to FOD and impact</li>",
+     desp: "<li>Improved Ram Air Turbine Mfg processes.</li><li>Implemented shadowboards in nearly 15% of plant assembly areas & 75% of test areas.</li><li>Overhauled wind tunnel gantry mounting processes to protect Airbus A320 ram air turbines from damage due to FOD and impact</li>",
   },
   {
     title: "Production Team",
