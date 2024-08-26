@@ -11,13 +11,7 @@ const references = [
         designation1 : "Program Manager, Al & Lila Self Leadership Academy",
         image1 : "assets/images/references-page/Jack Kwatinetz 2.jpg",
         message1 : "As a Leadership Academy Scholar, Matt demonstrates strong leadership capabilities through taking initiative, motivating others, and leading by example. Matt is always willing to step up to take on additional responsibilities and challenges within the Academy. He leads groups effectively, encouraging collaboration and bringing out the best in his fellow scholars.",
-   // sl2:2,
-   //     name2 : "John Doe",
-   //     designation2 : "Position, Company", 
-   //     image2: "assets/images/dp_male.svg",
-    //    message2 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dapibus erat eget neque imperdiet, nec tempus velit dapibus. Etiam sed justo ultrices, scelerisque neque id, imperdiet quam.",
-        
-        
+ 
     },
 ];
 
