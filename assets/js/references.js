@@ -27,12 +27,12 @@ const fillData = () => {
       designation1,
       message1,
       absbox_for_linkedin1,
-      sl2,
-      image2,
-      name2,
-      designation2,
-      message2,
-      absbox_for_linkedin2,
+      //sl2,
+     // image2,
+     // name2,
+     // designation2,
+    //  message2,
+     // absbox_for_linkedin2,
     }) =>
       (output += `<tr data-aos="zoom-in-left"> 
                 <td class="imgCol"><img src="${image1}" class="rImg"></td>
